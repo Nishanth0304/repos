@@ -1,0 +1,347 @@
+# Glossier Scraper - Notes
+
+1. Overview
+
+---
+
+This project implements a Python command-line scraper for the Glossier "All Products" collection.
+
+The scraper retrieves structured product data, expands product variants into individual rows, extracts descriptions, and writes the results to CSV.
+
+The scraper supports both the default US storefront and the India storefront.
+
+2. Technology and Tools
+
+---
+
+Language:
+
+* Python
+
+Libraries:
+
+* requests
+* beautifulsoup4
+* lxml
+
+Other tools:
+
+* Git
+* GitHub
+* Command line / PowerShell
+
+No browser automation was required for the Glossier scraper.
+
+3. Data Source
+
+---
+
+The scraper uses Glossier's publicly accessible Shopify-style JSON product endpoints instead of scraping product information from rendered HTML pages.
+
+US storefront:
+
+https://www.glossier.com/collections/all/products.json
+
+India storefront:
+
+https://www.glossier.com/en-in/collections/all/products.json
+
+The JSON endpoint provides structured product information including:
+
+* product ID
+* product title
+* product handle
+* description HTML
+* product images
+* variants
+* variant IDs
+* variant names
+* variant prices
+
+4. Why Structured JSON Was Used
+
+---
+
+An initial HTML link-based approach was considered, but product information was not reliably available in the required fields from the collection page HTML.
+
+The structured JSON endpoint provided the required product information directly and was therefore selected as the primary data source.
+
+Advantages:
+
+* Less HTML parsing
+* More reliable product IDs
+* Variant information is available directly
+* Variant-specific prices are available
+* Product descriptions are available
+* Product image URLs are available
+* No browser automation is required
+* Lower resource usage than browser rendering
+
+5. Pagination
+
+---
+
+The scraper requests products using a page size of 250.
+
+The scraper continues requesting pages until the endpoint returns an empty product list.
+
+Example:
+
+Page 1:
+
+* Products returned: 110 for the US storefront
+
+Page 2:
+
+* Products returned: 0
+
+The scraper therefore stops after receiving the empty page rather than assuming a fixed number of pages.
+
+6. Product and Variant Handling
+
+---
+
+The assignment asks for a unique product ID and includes variants as a stretch requirement.
+
+The scraper treats each Shopify variant as a unique sellable product configuration.
+
+Each CSV row contains:
+
+* product_name
+* product_id
+* variant_id
+* variant_name
+* image
+* url
+* price
+* description
+* scraped_at
+
+The parent product ID is retained in product_id.
+
+The variant ID is used as the unique identifier for each variant row.
+
+This prevents variants such as different sizes or flavors from being collapsed into a single row.
+
+7. Results - US Storefront
+
+---
+
+During the test run, the US storefront returned:
+
+Parent products:
+110
+
+Product variants generated:
+353
+
+Unique product variants after deduplication:
+353
+
+Output file:
+
+output/glossier_products_us.csv
+
+8. Results - India Storefront
+
+---
+
+During the test run, the India storefront returned:
+
+Parent products:
+95
+
+Product variants generated:
+321
+
+Unique product variants after deduplication:
+321
+
+Output file:
+
+output/glossier_products_in.csv
+
+The US and India storefronts returned different product counts during the test run.
+
+This demonstrates that the storefront selected for the scrape can affect the returned product catalog.
+
+The difference is reported as an observation from the scrape. It is not assumed that geographic availability is the only reason for the difference because the live catalog can change over time and storefront configurations may differ.
+
+9. US Location Handling
+
+---
+
+The assignment asks to change the location to US and repeat the scraping.
+
+The root Glossier storefront was used as the US storefront:
+
+https://www.glossier.com/collections/all/products.json
+
+An /en-us/ version of the JSON endpoint was tested but did not return the expected JSON response.
+
+The India storefront was successfully accessed using:
+
+https://www.glossier.com/en-in/collections/all/products.json
+
+The scraper therefore uses explicit storefront endpoints rather than attempting to simulate a browser location through an arbitrary query parameter.
+
+10. Description Extraction
+
+---
+
+Product descriptions are supplied as HTML in the JSON response.
+
+BeautifulSoup is used to convert the HTML description into readable plain text.
+
+Whitespace is normalized after HTML extraction.
+
+A small amount of cleanup is also performed for words that were joined together in the source content.
+
+11. Image Handling
+
+---
+
+All available product image URLs are collected.
+
+If a product has multiple images, the URLs are stored as a JSON array inside the CSV cell.
+
+This avoids losing additional product images while still keeping the output in a single CSV file.
+
+12. Price Handling
+
+---
+
+Prices are taken from the product variant data.
+
+This is important because different variants can have different prices.
+
+For example, different sizes of the same product may have different prices.
+
+The scraper therefore uses the variant price rather than assuming that all variants of a product have the same price.
+
+13. Unique Product Handling
+
+---
+
+Duplicate variants are removed using variant_id.
+
+The variant ID is used because it uniquely identifies the individual variant returned by the source.
+
+For the tested US dataset:
+
+353 variants were generated.
+
+353 unique variants remained after deduplication.
+
+14. Timestamp
+
+---
+
+Each scraped row contains a scraped_at field.
+
+The timestamp is generated in UTC using an ISO 8601 timestamp.
+
+This makes it possible to identify when the data was collected.
+
+15. Encoding
+
+---
+
+The CSV is written using UTF-8 with BOM (utf-8-sig).
+
+This was selected to improve compatibility when opening the CSV in spreadsheet applications such as Microsoft Excel, particularly for product names or descriptions containing non-ASCII characters.
+
+16. Browser Rendering Decision
+
+---
+
+Browser automation was not used for the Glossier scraper.
+
+The structured JSON endpoints returned the required product data directly through normal HTTP requests.
+
+Therefore, using requests was considered sufficient and less resource-intensive than launching a browser.
+
+This also makes the scraper easier to run from the command line and easier to reproduce.
+
+17. Assumptions
+
+---
+
+* The public JSON product endpoints are an acceptable source for the assignment.
+* The product handle can be used to construct the public product URL.
+* The variant ID is an appropriate unique identifier for individual variant rows.
+* Product descriptions can be converted from HTML to plain text without requiring a browser.
+* The root storefront is treated as the US storefront based on the storefront behavior observed during testing.
+* The live catalog may change, so product counts can differ when the scraper is run again.
+
+18. Tradeoffs
+
+---
+
+Structured JSON was preferred over HTML scraping because it provides cleaner and more complete product data.
+
+The main tradeoff is that the scraper depends on the availability and structure of the public JSON endpoint.
+
+Browser automation could potentially reproduce more of the interactive storefront behavior, but it would require more resources and would make the scraper slower and more complex.
+
+For this task, direct HTTP requests were sufficient for the required product data.
+
+19. Reproducibility
+
+---
+
+Install dependencies with:
+
+pip install -r requirements.txt
+
+Run the US scraper with:
+
+python src/glossier_scraper.py --country us
+
+Run the India scraper with:
+
+python src/glossier_scraper.py --country in
+
+The generated files are:
+
+output/glossier_products_us.csv
+output/glossier_products_in.csv
+
+20. AI Usage Disclosure
+
+---
+
+AI assistance was used during development of this assignment.
+
+AI was used for:
+
+* Understanding the assignment requirements
+* Discussing possible scraping approaches
+* Helping with Python syntax and boilerplate
+* Reviewing and improving the scraper structure
+* Discussing handling of Shopify product variants
+* Troubleshooting HTTP/JSON responses
+* Improving data-cleaning logic
+* Reviewing implementation decisions
+
+The final implementation was tested manually from the command line.
+
+The candidate reviewed and ran the code and is responsible for understanding the implementation and being able to explain the design decisions.
+
+No claim is made that AI independently performed or verified the scraping results.
+
+21. Current Test Results
+
+---
+
+US:
+
+110 parent products
+353 unique variants
+
+India:
+
+95 parent products
+321 unique variants
+
+Both runs completed successfully using direct HTTP requests and produced CSV output files.

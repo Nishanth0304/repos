@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\pages\\store\\productdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\pages\\store\\productdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\middleware\\productidvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\middleware\\productidvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\pages\\store\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\pages\\store\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\pages\\store\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\pages\\store\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\pages\\store\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\pages\\store\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\pages\\store\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\pages\\store\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\pages\\store\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\pages\\store\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\question4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\question4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishant.HS\\source\\repos\\Question4\\analysis_fix.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:analysis_fix.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|c:\\users\\nishant.hs\\source\\repos\\question4\\question4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0774A532-8FF6-4E57-B404-DC0D2C548EC2}|Question4\\Question4.csproj|solutionrelative:question4\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Question4\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Question4\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T04:15:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Question4\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Question4\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T04:15:26.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductIdValidationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Middleware\\ProductIdValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "Question4\\Middleware\\ProductIdValidationMiddleware.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Middleware\\ProductIdValidationMiddleware.cs",
+              "RelativeToolTip": "Question4\\Middleware\\ProductIdValidationMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T03:29:19.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Question4\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\appsettings.Development.json",
+              "RelativeToolTip": "Question4\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-10T03:36:25.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\ProductDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "Question4\\Pages\\Store\\ProductDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\ProductDetails.cshtml.cs",
+              "RelativeToolTip": "Question4\\Pages\\Store\\ProductDetails.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAzwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T03:39:47.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Program.cs",
+              "RelativeDocumentMoniker": "Question4\\Program.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Program.cs",
+              "RelativeToolTip": "Question4\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T03:16:46.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Question4\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Question4\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T03:41:59.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Question4\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Question4\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T03:29:14.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "analysis_fix.txt",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\analysis_fix.txt",
+              "RelativeDocumentMoniker": "analysis_fix.txt",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\analysis_fix.txt",
+              "RelativeToolTip": "analysis_fix.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-10T03:53:06.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Question4\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Question4\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T03:40:03.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Question4\\Pages\\Store\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\ProductDetails.cshtml",
+              "RelativeToolTip": "Question4\\Pages\\Store\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T03:39:53.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "Question4\\Pages\\Store\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\AddProduct.cshtml",
+              "RelativeToolTip": "Question4\\Pages\\Store\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T03:39:41.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProduct.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\AddProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "Question4\\Pages\\Store\\AddProduct.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\AddProduct.cshtml.cs",
+              "RelativeToolTip": "Question4\\Pages\\Store\\AddProduct.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T03:39:36.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\Products.cshtml",
+              "RelativeDocumentMoniker": "Question4\\Pages\\Store\\Products.cshtml",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\Products.cshtml",
+              "RelativeToolTip": "Question4\\Pages\\Store\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-10T03:39:30.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\Products.cshtml.cs",
+              "RelativeDocumentMoniker": "Question4\\Pages\\Store\\Products.cshtml.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Pages\\Store\\Products.cshtml.cs",
+              "RelativeToolTip": "Question4\\Pages\\Store\\Products.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T03:39:24.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\appsettings.json",
+              "RelativeDocumentMoniker": "Question4\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\appsettings.json",
+              "RelativeToolTip": "Question4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-10T03:45:40.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Question4",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Question4.csproj",
+              "RelativeDocumentMoniker": "Question4\\Question4.csproj",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Question4.csproj",
+              "RelativeToolTip": "Question4\\Question4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T03:28:50.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Question4\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\Question4\\Question4\\Models\\Product.cs",
+              "RelativeToolTip": "Question4\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T03:29:10.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

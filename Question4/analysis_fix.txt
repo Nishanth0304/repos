@@ -1,0 +1,17 @@
+Root cause: appsettings.json contains two separate top-level JSON objects. JSON must have a single root value, so the '{' at line 10 is invalid after the first object.
+
+Fix applied: Merge the ConnectionStrings object into the single root object.
+
+Corrected appsettings.json:
+{
+  "Logging": {
+	"LogLevel": {
+	  "Default": "Information",
+	  "Microsoft.AspNetCore": "Warning"
+	}
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+	"DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=ProductsDb;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}

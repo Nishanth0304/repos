@@ -1,0 +1,173 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  color: #333;
+}
+
+button {
+  cursor: pointer;
+}
+
+.app {
+  width: 800px;
+  max-width: 90%;
+  margin: 40px auto;
+}
+
+/* Header */
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.header h1 {
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.header p {
+  color: #666;
+}
+
+/* Add Movie */
+
+.add-movie {
+  background-color: white;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 25px;
+}
+
+.add-movie h2 {
+  margin-top: 0;
+}
+
+.add-movie form {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.add-movie input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  flex: 1;
+  min-width: 150px;
+}
+
+.add-movie button {
+  padding: 10px 18px;
+  border: none;
+  border-radius: 5px;
+  background-color: #1976d2;
+  color: white;
+}
+
+/* Search */
+
+.search-section {
+  background-color: white;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.search-section h2 {
+  margin-top: 0;
+}
+
+.search-section input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Movie List */
+
+.movie-list h2 {
+  margin-bottom: 15px;
+}
+
+.movie-card {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.movie-card h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.movie-card p {
+  margin: 5px 0;
+}
+
+/* Edit Form */
+
+.movie-card input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Buttons */
+
+.button-group {
+  margin-top: 12px;
+}
+
+.edit-button {
+  margin-right: 10px;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #1976d2;
+  color: white;
+}
+
+.delete-button {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #d32f2f;
+  color: white;
+}
+
+.save-button {
+  margin-right: 10px;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #2e7d32;
+  color: white;
+}
+
+.cancel-button {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  background-color: #757575;
+  color: white;
+}
+
+.no-movies {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}

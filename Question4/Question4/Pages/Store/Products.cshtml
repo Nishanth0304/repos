@@ -1,0 +1,34 @@
+@page "/Store/Products"
+@model Question4.Pages.Store.ProductsModel
+
+<h2>Products</h2>
+
+<p>
+    <a class="btn btn-primary" asp-page="/Store/AddProduct">Add Product</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ProductId</th>
+            <th>ProductName</th>
+            <th>Category</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var p in Model.ProductList)
+    {
+        <tr>
+            <td>@p.ProductId</td>
+            <td>@p.ProductName</td>
+            <td>@p.Category</td>
+            <td>@p.Price</td>
+            <td>@p.Quantity</td>
+            <td><a class="btn btn-link" asp-page="/Store/ProductDetails" asp-route-id="@p.ProductId">Details</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

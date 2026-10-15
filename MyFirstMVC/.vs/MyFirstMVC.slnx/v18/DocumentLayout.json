@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\nishant.hs\\source\\repos\\myfirstmvc\\myfirstmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\nishant.hs\\source\\repos\\myfirstmvc\\myfirstmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\nishant.hs\\source\\repos\\myfirstmvc\\myfirstmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\nishant.hs\\source\\repos\\myfirstmvc\\myfirstmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|c:\\users\\nishant.hs\\source\\repos\\myfirstmvc\\myfirstmvc\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7777E1-059B-B5E5-AD43-602D8E0A3E32}|MyFirstMVC\\MyFirstMVC.csproj|solutionrelative:myfirstmvc\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Controllers\\StudentApiController.cs",
+              "RelativeDocumentMoniker": "MyFirstMVC\\Controllers\\StudentApiController.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Controllers\\StudentApiController.cs",
+              "RelativeToolTip": "MyFirstMVC\\Controllers\\StudentApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:23:05.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Program.cs",
+              "RelativeToolTip": "MyFirstMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:20:48.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFirstMVC\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "MyFirstMVC\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-24T09:03:08.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MyFirstMVC\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MyFirstMVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:01:27.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "MyFirstMVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MyFirstMVC\\MyFirstMVC\\Models\\Student.cs",
+              "RelativeToolTip": "MyFirstMVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:00:14.835Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

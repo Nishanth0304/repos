@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3D9238-35B1-4442-8F40-85F065863FA5}|EmployeeAPI.Tests\\EmployeeAPI.Tests.csproj|c:\\users\\nishant.hs\\source\\repos\\employeeapi\\employeeapi.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3D9238-35B1-4442-8F40-85F065863FA5}|EmployeeAPI.Tests\\EmployeeAPI.Tests.csproj|solutionrelative:employeeapi.tests\\employeecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\nishant.hs\\source\\repos\\employeeapi\\employeeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\nishant.hs\\source\\repos\\employeeapi\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\nishant.hs\\source\\repos\\employeeapi\\employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3D9238-35B1-4442-8F40-85F065863FA5}|EmployeeAPI.Tests\\EmployeeAPI.Tests.csproj|c:\\users\\nishant.hs\\source\\repos\\employeeapi\\employeeapi.tests\\employeeapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF3D9238-35B1-4442-8F40-85F065863FA5}|EmployeeAPI.Tests\\EmployeeAPI.Tests.csproj|solutionrelative:employeeapi.tests\\employeeapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\nishant.hs\\source\\repos\\employeeapi\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\nishant.hs\\source\\repos\\employeeapi\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB4697A-CF5F-41AC-AC20-3B17D7D6DC58}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-29T11:17:40.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeAPI",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeAPI\\EmployeeAPI.csproj",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.csproj",
+              "RelativeToolTip": "EmployeeAPI\\EmployeeAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T11:15:12.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI.Tests\\EmployeeControllerTests.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI.Tests\\EmployeeControllerTests.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI.Tests\\EmployeeControllerTests.cs",
+              "RelativeToolTip": "EmployeeAPI.Tests\\EmployeeControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T11:00:06.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeAPI.Tests",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI.Tests\\EmployeeAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "EmployeeAPI.Tests\\EmployeeAPI.Tests.csproj",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI.Tests\\EmployeeAPI.Tests.csproj",
+              "RelativeToolTip": "EmployeeAPI.Tests\\EmployeeAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T10:59:02.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:55:15.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:54:18.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\EmployeeAPI\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T10:53:34.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

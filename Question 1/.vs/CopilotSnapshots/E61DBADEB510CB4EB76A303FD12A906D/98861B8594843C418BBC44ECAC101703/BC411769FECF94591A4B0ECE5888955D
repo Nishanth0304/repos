@@ -1,0 +1,14 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using EmployeeManagementSystem.Models;
+using System.Runtime.CompilerServices;
+
+namespace EmployeeManagementSystem.Controllers
+{
+    public class EmployeeController : Controller
+    {
+        public IActionResult Create()
+        {
+            return View();
+        }
+    }
+}

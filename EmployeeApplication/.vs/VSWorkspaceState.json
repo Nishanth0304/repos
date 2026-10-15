@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\employee-app\\src",
+    "\\employee-app\\src\\app",
+    "\\employee-app\\src\\app\\models",
+    "\\employee-app\\src\\app\\services",
+    "\\employeeApI",
+    "\\employeeApI\\Controllers",
+    "\\employeeApI\\Models"
+  ],
+  "SelectedNode": "\\employeeApI\\Controllers\\Employeecontroller.cs",
+  "PreviewInSolutionExplorer": false
+}

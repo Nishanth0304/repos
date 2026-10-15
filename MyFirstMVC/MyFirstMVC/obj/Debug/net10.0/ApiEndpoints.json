@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "MyFirstMVC.Controllers.StudentApiController",
+    "Method": "GetStudents",
+    "RelativePath": "api/StudentApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

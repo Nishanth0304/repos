@@ -1,0 +1,108 @@
+<div class="container">
+
+  <h1>Employee Management System</h1>
+
+  <h2>
+    {{ editingId === null ? 'Add Employee' : 'Edit Employee' }}
+  </h2>
+
+  <div class="form-container">
+
+    <div class="form-row">
+      <label>Name:</label>
+      <input type="text"
+             [(ngModel)]="employee.name" />
+    </div>
+
+    <div class="form-row">
+      <label>Email:</label>
+      <input type="text"
+             [(ngModel)]="employee.email" />
+    </div>
+
+    <div class="form-row">
+      <label>Salary:</label>
+      <input type="number"
+             [(ngModel)]="employee.salary" />
+    </div>
+
+    <div class="form-row">
+      <label>Department:</label>
+      <input type="text"
+             [(ngModel)]="employee.department" />
+    </div>
+
+    <div class="buttons">
+
+      <button class="add-button"
+              (click)="addEmployee()">
+        {{ editingId === null ? 'Add Employee' : 'Update Employee' }}
+      </button>
+
+      <button class="clear-button"
+              (click)="clearForm()">
+        Clear
+      </button>
+
+    </div>
+
+  </div>
+
+  <hr>
+
+  <h2>Employee List</h2>
+
+  <table>
+
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Department</th>
+        <th>Salary</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+
+    <tbody>
+
+      @for (employee of employees; track employee.id) {
+
+      <tr>
+
+        <td>{{ employee.id }}</td>
+
+        <td>{{ employee.name }}</td>
+
+        <td>{{ employee.email }}</td>
+
+        <td>{{ employee.department }}</td>
+
+        <td>{{ employee.salary }}</td>
+
+
+
+        <td>
+
+          <button class="edit-button"
+                  (click)="editEmployee(employee)">
+            Edit
+          </button>
+
+          <button class="delete-button"
+                  (click)="deleteEmployee(employee.id)">
+            Delete
+          </button>
+
+        </td>
+
+      </tr>
+
+      }
+
+    </tbody>
+
+  </table>
+
+</div>

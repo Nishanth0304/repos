@@ -1,0 +1,12 @@
+﻿@model EmployeeManagementSystem.Models.Employee
+
+<h2>Employee Confirmation</h2>
+
+<div>
+    <p><strong>Employee ID:</strong> @Model.EmployeeId</p>
+    <p><strong>Employee Name:</strong> @Model.EmployeeName</p>
+    <p><strong>Department:</strong> @Model.Department</p>
+    <p><strong>Salary:</strong> @Model.Salary.ToString("C")</p>
+</div>
+
+<a asp-action="Create">Add Another Employee</a>

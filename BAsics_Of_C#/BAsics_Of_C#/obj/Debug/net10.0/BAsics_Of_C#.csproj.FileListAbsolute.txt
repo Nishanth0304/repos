@@ -1,0 +1,14 @@
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\bin\Debug\net10.0\BAsics_Of_C#.exe
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\bin\Debug\net10.0\BAsics_Of_C#.deps.json
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\bin\Debug\net10.0\BAsics_Of_C#.runtimeconfig.json
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\bin\Debug\net10.0\BAsics_Of_C#.dll
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\bin\Debug\net10.0\BAsics_Of_C#.pdb
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\obj\Debug\net10.0\BAsics_Of_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\obj\Debug\net10.0\BAsics_Of_C#.AssemblyInfoInputs.cache
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\obj\Debug\net10.0\BAsics_Of_C#.AssemblyInfo.cs
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\obj\Debug\net10.0\BAsics_Of_C#.csproj.CoreCompileInputs.cache
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\obj\Debug\net10.0\BAsics_Of_C#.dll
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\obj\Debug\net10.0\refint\BAsics_Of_C#.dll
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\obj\Debug\net10.0\BAsics_Of_C#.pdb
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\obj\Debug\net10.0\BAsics_Of_C#.genruntimeconfig.cache
+C:\Users\Nishant.HS\source\repos\BAsics_Of_C#\BAsics_Of_C#\obj\Debug\net10.0\ref\BAsics_Of_C#.dll

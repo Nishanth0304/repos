@@ -1,0 +1,14 @@
+C:\Users\Nishant.HS\source\repos\Test7\Test7\bin\Debug\net10.0\Test7.exe
+C:\Users\Nishant.HS\source\repos\Test7\Test7\bin\Debug\net10.0\Test7.deps.json
+C:\Users\Nishant.HS\source\repos\Test7\Test7\bin\Debug\net10.0\Test7.runtimeconfig.json
+C:\Users\Nishant.HS\source\repos\Test7\Test7\bin\Debug\net10.0\Test7.dll
+C:\Users\Nishant.HS\source\repos\Test7\Test7\bin\Debug\net10.0\Test7.pdb
+C:\Users\Nishant.HS\source\repos\Test7\Test7\obj\Debug\net10.0\Test7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nishant.HS\source\repos\Test7\Test7\obj\Debug\net10.0\Test7.AssemblyInfoInputs.cache
+C:\Users\Nishant.HS\source\repos\Test7\Test7\obj\Debug\net10.0\Test7.AssemblyInfo.cs
+C:\Users\Nishant.HS\source\repos\Test7\Test7\obj\Debug\net10.0\Test7.csproj.CoreCompileInputs.cache
+C:\Users\Nishant.HS\source\repos\Test7\Test7\obj\Debug\net10.0\Test7.dll
+C:\Users\Nishant.HS\source\repos\Test7\Test7\obj\Debug\net10.0\refint\Test7.dll
+C:\Users\Nishant.HS\source\repos\Test7\Test7\obj\Debug\net10.0\Test7.pdb
+C:\Users\Nishant.HS\source\repos\Test7\Test7\obj\Debug\net10.0\Test7.genruntimeconfig.cache
+C:\Users\Nishant.HS\source\repos\Test7\Test7\obj\Debug\net10.0\ref\Test7.dll

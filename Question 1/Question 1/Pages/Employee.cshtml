@@ -1,0 +1,36 @@
+@page
+@model EmployeeManagementSystem.Pages.EmployeeModel
+<h2>Employee</h2>
+
+@if (Model.Submitted)
+{
+    <div>
+        <p><strong>Employee ID:</strong> @Model.Employee.EmployeeId</p>
+        <p><strong>Name:</strong> @Model.Employee.EmployeeName</p>
+        <p><strong>Department:</strong> @Model.Employee.Department</p>
+        <p><strong>Salary:</strong> @Model.Employee.Salary</p>
+    </div>
+    <a asp-page="/Employee">Add Another</a>
+}
+else
+{
+    <form method="post">
+        <div>
+            <label asp-for="Employee.EmployeeId"></label>
+            <input asp-for="Employee.EmployeeId" />
+        </div>
+        <div>
+            <label asp-for="Employee.EmployeeName"></label>
+            <input asp-for="Employee.EmployeeName" />
+        </div>
+        <div>
+            <label asp-for="Employee.Department"></label>
+            <input asp-for="Employee.Department" />
+        </div>
+        <div>
+            <label asp-for="Employee.Salary"></label>
+            <input asp-for="Employee.Salary" />
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+}

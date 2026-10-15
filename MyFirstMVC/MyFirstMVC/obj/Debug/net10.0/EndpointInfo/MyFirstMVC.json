@@ -1,0 +1,27 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "MyFirstMVC",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/StudentApi": {
+      "get": {
+        "tags": [
+          "StudentApi"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { },
+  "tags": [
+    {
+      "name": "StudentApi"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\nishant.hs\\source\\repos\\middlewaredemo\\middlewaredemo\\middleware\\secondmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\middleware\\secondmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\nishant.hs\\source\\repos\\middlewaredemo\\middlewaredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\nishant.hs\\source\\repos\\middlewaredemo\\middlewaredemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\nishant.hs\\source\\repos\\middlewaredemo\\middlewaredemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\nishant.hs\\source\\repos\\middlewaredemo\\middlewaredemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\nishant.hs\\source\\repos\\middlewaredemo\\middlewaredemo\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|c:\\users\\nishant.hs\\source\\repos\\middlewaredemo\\middlewaredemo\\middleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9CFC85-C184-524C-F5A7-A059625AF4CE}|MiddlewareDemo\\MiddlewareDemo.csproj|solutionrelative:middlewaredemo\\middleware\\mycustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiddlewareDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T09:20:36.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiddlewareDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T09:19:29.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "MiddlewareDemo\\wwwroot\\css\\custom.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-01T09:18:55.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MiddlewareDemo\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-09-01T09:18:30.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecondMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Middleware\\SecondMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\Middleware\\SecondMiddleware.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Middleware\\SecondMiddleware.cs",
+              "RelativeToolTip": "MiddlewareDemo\\Middleware\\SecondMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T09:16:21.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Program.cs",
+              "RelativeToolTip": "MiddlewareDemo\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T09:09:33.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Middleware\\MyCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareDemo\\Middleware\\MyCustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\Nishant.HS\\source\\repos\\MiddlewareDemo\\MiddlewareDemo\\Middleware\\MyCustomMiddleware.cs",
+              "RelativeToolTip": "MiddlewareDemo\\Middleware\\MyCustomMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T09:07:53.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
